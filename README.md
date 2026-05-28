@@ -13,7 +13,7 @@ This project demonstrates Python skills in file handling, data structures, and a
 - Automatically updates CV data
 - Uses structured JSON storage
 - Simple command-line interface
-- Easy to extend (PDF, Word, web app, etc.)
+- Easy to extend (PDF, Word, web app, etc.)!!
 
 ---
 
